@@ -425,7 +425,7 @@ sass/
 |   |– _admin.scss       # Admin theme
 |   ...                  # Etc…
 |
-|– utils/
+|– abstracts/
 |   |– _variables.scss   # Sass Variables
 |   |– _functions.scss   # Sass Functions
 |   |– _mixins.scss      # Sass Mixins
@@ -439,5 +439,4 @@ sass/
 |
 `– main.scss             # Main Sass file
 ```
-
 [Source](https://gist.github.com/rveitch/84cea9650092119527bc)
