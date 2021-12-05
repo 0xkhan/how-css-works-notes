@@ -391,7 +391,7 @@ from one another, `transforms` and `filters` also create stacking context.
 
 ## CSS (SASS) Architecture
 ### The 7-1 Pattern
-```zsh
+```
 sass/
 |
 |– base/
