@@ -439,4 +439,4 @@ sass/
 |
 `– main.scss             # Main Sass file
 ```
-[Source](https://gist.github.com/rveitch/84cea9650092119527bc)
+[Source](https://sass-guidelin.es/#the-7-1-pattern)
